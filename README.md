@@ -10,20 +10,8 @@ This project captures live network packets and analyzes them to detect suspiciou
 - Logs saved in logs.txt
 
 ## How to Run
-
 1. Install dependencies:
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 2. Run:
-python main.py
-
-## Technologies Used
-- Python
-- Scapy
-- GitHub
-- VS Code
-
-## Future Enhancements
-- GUI support
-- Advanced attack detection
-- Machine learning integration
+   python main.py
